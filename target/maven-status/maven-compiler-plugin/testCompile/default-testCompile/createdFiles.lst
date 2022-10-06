@@ -1,0 +1,10 @@
+Booking\Pages\LoginPage.class
+Booking\Automatizacion\App.class
+Booking\Steps\ListPages.class
+Booking\Test\RunnersFeature.class
+Booking\Pages\ShoppingCardPage.class
+Booking\Steps\ButtonPages.class
+Booking\Definitions\DefinitionsSteps.class
+Booking\Automatizacion\AppTest.class
+Booking\Pages\AddProduct.class
+Booking\Steps\Conexion.class
